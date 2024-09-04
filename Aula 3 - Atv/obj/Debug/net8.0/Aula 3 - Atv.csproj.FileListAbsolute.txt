@@ -1,0 +1,15 @@
+C:\Users\rastreamento\Desktop\Estrutura de dados\Estrutura-de-Dados\Aula 3 - Atv\bin\Debug\net8.0\Aula 3 - Atv.exe
+C:\Users\rastreamento\Desktop\Estrutura de dados\Estrutura-de-Dados\Aula 3 - Atv\bin\Debug\net8.0\Aula 3 - Atv.deps.json
+C:\Users\rastreamento\Desktop\Estrutura de dados\Estrutura-de-Dados\Aula 3 - Atv\bin\Debug\net8.0\Aula 3 - Atv.runtimeconfig.json
+C:\Users\rastreamento\Desktop\Estrutura de dados\Estrutura-de-Dados\Aula 3 - Atv\bin\Debug\net8.0\Aula 3 - Atv.dll
+C:\Users\rastreamento\Desktop\Estrutura de dados\Estrutura-de-Dados\Aula 3 - Atv\bin\Debug\net8.0\Aula 3 - Atv.pdb
+C:\Users\rastreamento\Desktop\Estrutura de dados\Estrutura-de-Dados\Aula 3 - Atv\obj\Debug\net8.0\Aula 3 - Atv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rastreamento\Desktop\Estrutura de dados\Estrutura-de-Dados\Aula 3 - Atv\obj\Debug\net8.0\Aula 3 - Atv.AssemblyInfoInputs.cache
+C:\Users\rastreamento\Desktop\Estrutura de dados\Estrutura-de-Dados\Aula 3 - Atv\obj\Debug\net8.0\Aula 3 - Atv.AssemblyInfo.cs
+C:\Users\rastreamento\Desktop\Estrutura de dados\Estrutura-de-Dados\Aula 3 - Atv\obj\Debug\net8.0\Aula 3 - Atv.csproj.CoreCompileInputs.cache
+C:\Users\rastreamento\Desktop\Estrutura de dados\Estrutura-de-Dados\Aula 3 - Atv\obj\Debug\net8.0\Aula 3 - Atv.sourcelink.json
+C:\Users\rastreamento\Desktop\Estrutura de dados\Estrutura-de-Dados\Aula 3 - Atv\obj\Debug\net8.0\Aula 3 - Atv.dll
+C:\Users\rastreamento\Desktop\Estrutura de dados\Estrutura-de-Dados\Aula 3 - Atv\obj\Debug\net8.0\refint\Aula 3 - Atv.dll
+C:\Users\rastreamento\Desktop\Estrutura de dados\Estrutura-de-Dados\Aula 3 - Atv\obj\Debug\net8.0\Aula 3 - Atv.pdb
+C:\Users\rastreamento\Desktop\Estrutura de dados\Estrutura-de-Dados\Aula 3 - Atv\obj\Debug\net8.0\Aula 3 - Atv.genruntimeconfig.cache
+C:\Users\rastreamento\Desktop\Estrutura de dados\Estrutura-de-Dados\Aula 3 - Atv\obj\Debug\net8.0\ref\Aula 3 - Atv.dll
