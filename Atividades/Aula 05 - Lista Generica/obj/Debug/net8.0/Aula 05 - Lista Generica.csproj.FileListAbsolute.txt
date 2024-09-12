@@ -1,0 +1,15 @@
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 05 - Lista Generica\obj\Debug\net8.0\Aula 05 - Lista Generica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 05 - Lista Generica\obj\Debug\net8.0\Aula 05 - Lista Generica.AssemblyInfoInputs.cache
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 05 - Lista Generica\obj\Debug\net8.0\Aula 05 - Lista Generica.AssemblyInfo.cs
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 05 - Lista Generica\obj\Debug\net8.0\Aula 05 - Lista Generica.csproj.CoreCompileInputs.cache
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 05 - Lista Generica\obj\Debug\net8.0\Aula 05 - Lista Generica.sourcelink.json
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 05 - Lista Generica\bin\Debug\net8.0\Aula 05 - Lista Generica.exe
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 05 - Lista Generica\bin\Debug\net8.0\Aula 05 - Lista Generica.deps.json
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 05 - Lista Generica\bin\Debug\net8.0\Aula 05 - Lista Generica.runtimeconfig.json
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 05 - Lista Generica\bin\Debug\net8.0\Aula 05 - Lista Generica.dll
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 05 - Lista Generica\bin\Debug\net8.0\Aula 05 - Lista Generica.pdb
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 05 - Lista Generica\obj\Debug\net8.0\Aula 05 - Lista Generica.dll
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 05 - Lista Generica\obj\Debug\net8.0\refint\Aula 05 - Lista Generica.dll
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 05 - Lista Generica\obj\Debug\net8.0\Aula 05 - Lista Generica.pdb
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 05 - Lista Generica\obj\Debug\net8.0\Aula 05 - Lista Generica.genruntimeconfig.cache
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 05 - Lista Generica\obj\Debug\net8.0\ref\Aula 05 - Lista Generica.dll
