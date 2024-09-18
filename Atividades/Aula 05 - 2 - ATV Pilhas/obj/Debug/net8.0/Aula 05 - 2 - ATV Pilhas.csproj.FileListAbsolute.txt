@@ -1,0 +1,15 @@
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 05 - 2 - ATV Pilhas\bin\Debug\net8.0\Aula 05 - 2 - ATV Pilhas.exe
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 05 - 2 - ATV Pilhas\bin\Debug\net8.0\Aula 05 - 2 - ATV Pilhas.deps.json
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 05 - 2 - ATV Pilhas\bin\Debug\net8.0\Aula 05 - 2 - ATV Pilhas.runtimeconfig.json
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 05 - 2 - ATV Pilhas\bin\Debug\net8.0\Aula 05 - 2 - ATV Pilhas.dll
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 05 - 2 - ATV Pilhas\bin\Debug\net8.0\Aula 05 - 2 - ATV Pilhas.pdb
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 05 - 2 - ATV Pilhas\obj\Debug\net8.0\Aula 05 - 2 - ATV Pilhas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 05 - 2 - ATV Pilhas\obj\Debug\net8.0\Aula 05 - 2 - ATV Pilhas.AssemblyInfoInputs.cache
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 05 - 2 - ATV Pilhas\obj\Debug\net8.0\Aula 05 - 2 - ATV Pilhas.AssemblyInfo.cs
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 05 - 2 - ATV Pilhas\obj\Debug\net8.0\Aula 05 - 2 - ATV Pilhas.csproj.CoreCompileInputs.cache
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 05 - 2 - ATV Pilhas\obj\Debug\net8.0\Aula 05 - 2 - ATV Pilhas.sourcelink.json
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 05 - 2 - ATV Pilhas\obj\Debug\net8.0\Aula 05 - 2 - ATV Pilhas.dll
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 05 - 2 - ATV Pilhas\obj\Debug\net8.0\refint\Aula 05 - 2 - ATV Pilhas.dll
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 05 - 2 - ATV Pilhas\obj\Debug\net8.0\Aula 05 - 2 - ATV Pilhas.pdb
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 05 - 2 - ATV Pilhas\obj\Debug\net8.0\Aula 05 - 2 - ATV Pilhas.genruntimeconfig.cache
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 05 - 2 - ATV Pilhas\obj\Debug\net8.0\ref\Aula 05 - 2 - ATV Pilhas.dll
