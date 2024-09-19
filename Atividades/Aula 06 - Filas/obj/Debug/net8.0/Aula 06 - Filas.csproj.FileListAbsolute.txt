@@ -1,0 +1,14 @@
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 06 - Filas\obj\Debug\net8.0\Aula 06 - Filas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 06 - Filas\obj\Debug\net8.0\Aula 06 - Filas.AssemblyInfoInputs.cache
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 06 - Filas\obj\Debug\net8.0\Aula 06 - Filas.AssemblyInfo.cs
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 06 - Filas\obj\Debug\net8.0\Aula 06 - Filas.csproj.CoreCompileInputs.cache
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 06 - Filas\bin\Debug\net8.0\Aula 06 - Filas.exe
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 06 - Filas\bin\Debug\net8.0\Aula 06 - Filas.deps.json
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 06 - Filas\bin\Debug\net8.0\Aula 06 - Filas.runtimeconfig.json
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 06 - Filas\bin\Debug\net8.0\Aula 06 - Filas.dll
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 06 - Filas\bin\Debug\net8.0\Aula 06 - Filas.pdb
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 06 - Filas\obj\Debug\net8.0\Aula 06 - Filas.dll
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 06 - Filas\obj\Debug\net8.0\refint\Aula 06 - Filas.dll
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 06 - Filas\obj\Debug\net8.0\Aula 06 - Filas.pdb
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 06 - Filas\obj\Debug\net8.0\Aula 06 - Filas.genruntimeconfig.cache
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 06 - Filas\obj\Debug\net8.0\ref\Aula 06 - Filas.dll
