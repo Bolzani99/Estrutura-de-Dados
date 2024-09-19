@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Aula 06 - Atividade Filas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bfb200a6a6f28816c1485817beb03bb3c1f9f9f6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e71681c85a4c0ea8dbd11ca7267b6213d5a265a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Aula 06 - Atividade Filas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Aula 06 - Atividade Filas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

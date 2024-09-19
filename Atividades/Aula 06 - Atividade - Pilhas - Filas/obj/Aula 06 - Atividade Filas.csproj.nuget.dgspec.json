@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rastreamento\\Desktop\\Estrutura de Dados 2024\\Estrutura-de-Dados\\Atividades\\Aula 06 - Atividade Filas\\Aula 06 - Atividade Filas.csproj": {}
+    "C:\\Users\\rastreamento\\Desktop\\Estrutura de Dados 2024\\Estrutura-de-Dados\\Atividades\\Aula 06 - Atividade - Pilhas - Filas\\Aula 06 - Atividade Filas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rastreamento\\Desktop\\Estrutura de Dados 2024\\Estrutura-de-Dados\\Atividades\\Aula 06 - Atividade Filas\\Aula 06 - Atividade Filas.csproj": {
+    "C:\\Users\\rastreamento\\Desktop\\Estrutura de Dados 2024\\Estrutura-de-Dados\\Atividades\\Aula 06 - Atividade - Pilhas - Filas\\Aula 06 - Atividade Filas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rastreamento\\Desktop\\Estrutura de Dados 2024\\Estrutura-de-Dados\\Atividades\\Aula 06 - Atividade Filas\\Aula 06 - Atividade Filas.csproj",
+        "projectUniqueName": "C:\\Users\\rastreamento\\Desktop\\Estrutura de Dados 2024\\Estrutura-de-Dados\\Atividades\\Aula 06 - Atividade - Pilhas - Filas\\Aula 06 - Atividade Filas.csproj",
         "projectName": "Aula 06 - Atividade Filas",
-        "projectPath": "C:\\Users\\rastreamento\\Desktop\\Estrutura de Dados 2024\\Estrutura-de-Dados\\Atividades\\Aula 06 - Atividade Filas\\Aula 06 - Atividade Filas.csproj",
+        "projectPath": "C:\\Users\\rastreamento\\Desktop\\Estrutura de Dados 2024\\Estrutura-de-Dados\\Atividades\\Aula 06 - Atividade - Pilhas - Filas\\Aula 06 - Atividade Filas.csproj",
         "packagesPath": "C:\\Users\\rastreamento\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rastreamento\\Desktop\\Estrutura de Dados 2024\\Estrutura-de-Dados\\Atividades\\Aula 06 - Atividade Filas\\obj\\",
+        "outputPath": "C:\\Users\\rastreamento\\Desktop\\Estrutura de Dados 2024\\Estrutura-de-Dados\\Atividades\\Aula 06 - Atividade - Pilhas - Filas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rastreamento\\AppData\\Roaming\\NuGet\\NuGet.Config"
