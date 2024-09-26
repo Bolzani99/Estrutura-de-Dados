@@ -3,7 +3,7 @@
 // Isso nos forcene uma estrutura fortemente tipada 
 
 
-using Aula;
+using Aula_07__Dicionario;
 
 Dictionary<string, string> dictionary = new Dictionary<string, string>()
 {

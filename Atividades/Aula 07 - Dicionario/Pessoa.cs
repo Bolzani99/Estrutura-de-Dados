@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Aula 07 - Dicionario
+namespace Aula_07__Dicionario
 {
     public class Pessoa
     {

@@ -2,3 +2,13 @@ C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Ativida
 C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 07 - Dicionario\obj\Debug\net8.0\Dicionario.AssemblyInfoInputs.cache
 C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 07 - Dicionario\obj\Debug\net8.0\Dicionario.AssemblyInfo.cs
 C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 07 - Dicionario\obj\Debug\net8.0\Dicionario.csproj.CoreCompileInputs.cache
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 07 - Dicionario\bin\Debug\net8.0\Dicionario.exe
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 07 - Dicionario\bin\Debug\net8.0\Dicionario.deps.json
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 07 - Dicionario\bin\Debug\net8.0\Dicionario.runtimeconfig.json
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 07 - Dicionario\bin\Debug\net8.0\Dicionario.dll
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 07 - Dicionario\bin\Debug\net8.0\Dicionario.pdb
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 07 - Dicionario\obj\Debug\net8.0\Dicionario.dll
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 07 - Dicionario\obj\Debug\net8.0\refint\Dicionario.dll
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 07 - Dicionario\obj\Debug\net8.0\Dicionario.pdb
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 07 - Dicionario\obj\Debug\net8.0\Dicionario.genruntimeconfig.cache
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 07 - Dicionario\obj\Debug\net8.0\ref\Dicionario.dll
