@@ -1,0 +1,14 @@
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 07 - Atividade\bin\Debug\net8.0\Aula 07 - Atividade.exe
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 07 - Atividade\bin\Debug\net8.0\Aula 07 - Atividade.deps.json
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 07 - Atividade\bin\Debug\net8.0\Aula 07 - Atividade.runtimeconfig.json
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 07 - Atividade\bin\Debug\net8.0\Aula 07 - Atividade.dll
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 07 - Atividade\bin\Debug\net8.0\Aula 07 - Atividade.pdb
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 07 - Atividade\obj\Debug\net8.0\Aula 07 - Atividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 07 - Atividade\obj\Debug\net8.0\Aula 07 - Atividade.AssemblyInfoInputs.cache
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 07 - Atividade\obj\Debug\net8.0\Aula 07 - Atividade.AssemblyInfo.cs
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 07 - Atividade\obj\Debug\net8.0\Aula 07 - Atividade.csproj.CoreCompileInputs.cache
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 07 - Atividade\obj\Debug\net8.0\Aula 07 - Atividade.dll
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 07 - Atividade\obj\Debug\net8.0\refint\Aula 07 - Atividade.dll
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 07 - Atividade\obj\Debug\net8.0\Aula 07 - Atividade.pdb
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 07 - Atividade\obj\Debug\net8.0\Aula 07 - Atividade.genruntimeconfig.cache
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 07 - Atividade\obj\Debug\net8.0\ref\Aula 07 - Atividade.dll
