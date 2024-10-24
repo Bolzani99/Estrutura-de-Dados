@@ -1,0 +1,14 @@
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 10 - Arvores Basicas\bin\Debug\net8.0\Aula 10 - Arvores Basicas.exe
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 10 - Arvores Basicas\bin\Debug\net8.0\Aula 10 - Arvores Basicas.deps.json
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 10 - Arvores Basicas\bin\Debug\net8.0\Aula 10 - Arvores Basicas.runtimeconfig.json
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 10 - Arvores Basicas\bin\Debug\net8.0\Aula 10 - Arvores Basicas.dll
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 10 - Arvores Basicas\bin\Debug\net8.0\Aula 10 - Arvores Basicas.pdb
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 10 - Arvores Basicas\obj\Debug\net8.0\Aula 10 - Arvores Basicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 10 - Arvores Basicas\obj\Debug\net8.0\Aula 10 - Arvores Basicas.AssemblyInfoInputs.cache
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 10 - Arvores Basicas\obj\Debug\net8.0\Aula 10 - Arvores Basicas.AssemblyInfo.cs
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 10 - Arvores Basicas\obj\Debug\net8.0\Aula 10 - Arvores Basicas.csproj.CoreCompileInputs.cache
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 10 - Arvores Basicas\obj\Debug\net8.0\Aula 10 - Arvores Basicas.dll
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 10 - Arvores Basicas\obj\Debug\net8.0\refint\Aula 10 - Arvores Basicas.dll
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 10 - Arvores Basicas\obj\Debug\net8.0\Aula 10 - Arvores Basicas.pdb
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 10 - Arvores Basicas\obj\Debug\net8.0\Aula 10 - Arvores Basicas.genruntimeconfig.cache
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 10 - Arvores Basicas\obj\Debug\net8.0\ref\Aula 10 - Arvores Basicas.dll
