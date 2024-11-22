@@ -2,3 +2,27 @@ C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Ativida
 C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 11 - ATV QUIZ\obj\Debug\net8.0\Aula 11 - ATV QUIZ.AssemblyInfoInputs.cache
 C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 11 - ATV QUIZ\obj\Debug\net8.0\Aula 11 - ATV QUIZ.AssemblyInfo.cs
 C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 11 - ATV QUIZ\obj\Debug\net8.0\Aula 11 - ATV QUIZ.csproj.CoreCompileInputs.cache
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 11 - QUIZ\bin\Debug\net8.0\Aula 11 - ATV QUIZ.exe
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 11 - QUIZ\bin\Debug\net8.0\Aula 11 - ATV QUIZ.deps.json
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 11 - QUIZ\bin\Debug\net8.0\Aula 11 - ATV QUIZ.runtimeconfig.json
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 11 - QUIZ\bin\Debug\net8.0\Aula 11 - ATV QUIZ.dll
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 11 - QUIZ\bin\Debug\net8.0\Aula 11 - ATV QUIZ.pdb
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 11 - QUIZ\obj\Debug\net8.0\Aula 11 - ATV QUIZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 11 - QUIZ\obj\Debug\net8.0\Aula 11 - ATV QUIZ.AssemblyInfoInputs.cache
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 11 - QUIZ\obj\Debug\net8.0\Aula 11 - ATV QUIZ.AssemblyInfo.cs
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 11 - QUIZ\obj\Debug\net8.0\Aula 11 - ATV QUIZ.csproj.CoreCompileInputs.cache
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 11 - QUIZ\obj\Debug\net8.0\Aula 11 - ATV QUIZ.dll
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 11 - QUIZ\obj\Debug\net8.0\refint\Aula 11 - ATV QUIZ.dll
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 11 - QUIZ\obj\Debug\net8.0\Aula 11 - ATV QUIZ.pdb
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 11 - QUIZ\obj\Debug\net8.0\Aula 11 - ATV QUIZ.genruntimeconfig.cache
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 11 - QUIZ\obj\Debug\net8.0\ref\Aula 11 - ATV QUIZ.dll
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 11 - ATV QUIZ\bin\Debug\net8.0\Aula 11 - ATV QUIZ.exe
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 11 - ATV QUIZ\bin\Debug\net8.0\Aula 11 - ATV QUIZ.deps.json
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 11 - ATV QUIZ\bin\Debug\net8.0\Aula 11 - ATV QUIZ.runtimeconfig.json
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 11 - ATV QUIZ\bin\Debug\net8.0\Aula 11 - ATV QUIZ.dll
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 11 - ATV QUIZ\bin\Debug\net8.0\Aula 11 - ATV QUIZ.pdb
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 11 - ATV QUIZ\obj\Debug\net8.0\Aula 11 - ATV QUIZ.dll
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 11 - ATV QUIZ\obj\Debug\net8.0\refint\Aula 11 - ATV QUIZ.dll
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 11 - ATV QUIZ\obj\Debug\net8.0\Aula 11 - ATV QUIZ.pdb
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 11 - ATV QUIZ\obj\Debug\net8.0\Aula 11 - ATV QUIZ.genruntimeconfig.cache
+C:\Users\rastreamento\Desktop\Estrutura de Dados 2024\Estrutura-de-Dados\Atividades\Aula 11 - ATV QUIZ\obj\Debug\net8.0\ref\Aula 11 - ATV QUIZ.dll

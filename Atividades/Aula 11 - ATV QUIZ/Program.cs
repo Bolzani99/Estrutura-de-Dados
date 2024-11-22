@@ -1,39 +1,29 @@
-﻿using Aula_11___Arvore_Binaria;
-using Aula_11___ATV_QUIZ;
+﻿using Aula_11___ATV_QUIZ;
 
-public static void WriteAnswer(string text)
+BinaryTree<QuizItem> binaryTree = new();
+
+BinaryTree<QuizItem> tree = binaryTree.GetTree();
+BinaryTreeNode<QuizItem> node = tree.Root;
+while (node != null)
 {
-    Console.ForegroundColor = ConsoleColor.White;
-    Console.WriteLine(text);
-    Console.ForegroundColor = ConsoleColor.Gray;
-}
-
-static void Main(string[] args)
-{
-    BinaryTree<QuizItem> tree = GetTree();
-    BinaryTreeNode<QuizItem> node = tree.Root;
-
-    while (node != null)
+    if (node.Left != null || node.Right != null)
     {
-        if (node.Left != null || node.Right != null)
+        Console.Write(node.Data.Text);
+        switch (Console.ReadKey(true).Key)
         {
-            Console.Write(node.Data.Text);
-            switch (Console.ReadKey(true).Key)
-            {
-                case ConsoleKey.Y:
-                    WriteAnswer(" Yes");
-                    node = node.Left;
-                    break;
-                case ConsoleKey.N:
-                    WriteAnswer(" No");
-                    node = node.Right;
-                    break;
-            }
+            case ConsoleKey.Y:
+                binaryTree.WriteAnswer(" Yes");
+                node = node.Left ?? null!;
+                break;
+            case ConsoleKey.N:
+                binaryTree.WriteAnswer(" No");
+                node = node.Right ?? null!;
+                break;
         }
-        else
-        {
-            WriteAnswer(node.Data.Text);
-            node = null;
-        }
+    }
+    else
+    {
+        binaryTree.WriteAnswer(node.Data!.Text);
+        node = null!;
     }
 }
